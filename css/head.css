@@ -1,0 +1,15 @@
+.class1{
+  background-color: #333;
+  height: 100px;
+}
+
+.center{
+  text-align: center;
+color: white;
+
+}
+.tab{
+  font-size: 1.6em;
+  padding:2%;
+  line-height: 1.5em;
+}
